@@ -8,7 +8,7 @@ normalization techniques with python :
 + softmax
 
 activations functions with python :
-+ sigmodi
++ sigmoid
 + tanh
 + relu
 + leaky relu
